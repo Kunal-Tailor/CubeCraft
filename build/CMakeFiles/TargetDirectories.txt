@@ -1,3 +1,0 @@
-/Users/kunaltailor/Desktop/Kunal/RubicCube/rubiks-cube-solver-main/build/CMakeFiles/rubiks_cube_solver.dir
-/Users/kunaltailor/Desktop/Kunal/RubicCube/rubiks-cube-solver-main/build/CMakeFiles/edit_cache.dir
-/Users/kunaltailor/Desktop/Kunal/RubicCube/rubiks-cube-solver-main/build/CMakeFiles/rebuild_cache.dir
